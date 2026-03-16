@@ -1,82 +1,60 @@
-UDevs C++ Fundamentals – Internship Task
+# UDevs C++ Fundamentals – Internship Task
 
-This repository contains my first internship task completed at U Devs under the mentorship of Sir Usama Aslam.
+This repository contains my **first internship task completed at U Devs** .
 
-The objective of this task was to practice and strengthen the fundamental concepts of C++ programming, focusing on logical problem solving using functions, conditional statements, and loop structures.
+The goal of this task was to practice and strengthen the **fundamental concepts of C++ programming**, including functions, conditional statements, and loop structures.  
+Through these exercises, I implemented multiple small programs to improve my **logical thinking and problem-solving skills**.
 
-Through this exercise, I implemented several small programs that demonstrate how core programming concepts work together to solve basic computational problems.
+---
 
-Project Overview
+## 📌 Project Overview
 
-This project covers a collection of beginner-level C++ problems designed to build a strong foundation in programming. Each program focuses on applying logic through structured functions and control flow statements.
+This project focuses on **beginner-level C++ programming problems** designed to build a strong foundation in programming.
 
-The implementation emphasizes:
+Each program demonstrates the use of:
 
-Writing reusable functions
+- **Functions**
+- **Conditional Statements (if / else)**
+- **While Loop**
+- **Do-While Loop**
+- **Basic Programming Logic**
 
-Using conditional statements for decision making
+---
 
-Practicing while and do-while loops
+## 📚 Implemented Programs
 
-Improving problem-solving and logical thinking
+The repository includes solutions for the following problems:
 
-Implemented Programs
+1. **Even or Odd Number Checker**
+2. **Largest Number Finder**
+3. **Positive, Negative, or Zero Detection**
+4. **Factorial Calculation using While Loop**
+5. **Print Numbers from 1 to N**
+6. **Sum of Digits of a Number**
+7. **Prime Number Checker**
+8. **Fibonacci Series Generator**
+9. **Print "Hello World" N Times using Do-While Loop**
+10. **Reverse Digits of a Number**
+11. **Pyramid Star Pattern**
+12. **Voting Eligibility Checker**
 
-The repository includes the following C++ implementations:
+---
 
-Even or Odd Number Checker
+## 🛠 Technologies Used
 
-Largest Number Finder
+- **Programming Language:** C++
+- **Concepts Practiced:**
+  - Functions
+  - Conditional Statements
+  - While Loop
+  - Do-While Loop
+  - Basic Algorithmic Logic
 
-Positive, Negative, or Zero Detection
+---
 
-Factorial Calculation using While Loop
+## 📂 Repository Structure
 
-Printing Numbers from 1 to N
-
-Sum of Digits of a Number
-
-Prime Number Checker
-
-Fibonacci Series Generator
-
-Printing "Hello World" N Times using Do-While Loop
-
-Reversing Digits of a Number
-
-Pyramid Star Pattern
-
-Voting Eligibility Checker
-
-Technologies Used
-
-Language: C++
-
-Concepts Practiced:
-
-Functions
-
-Conditional Statements (if / else)
-
-While Loop
-
-Do-While Loop
-
-Basic Algorithmic Logic
-
-Learning Outcomes
-
-Working on this task helped me:
-
-Strengthen my understanding of C++ fundamentals
-
-Improve my problem-solving skills
-
-Practice writing structured and readable code
-
-Gain practical experience applying programming logic
-
-Repository Structure
+```
 udevs-cpp-functions-test
 │
 ├── Q1_EvenOdd.cpp
@@ -91,7 +69,18 @@ udevs-cpp-functions-test
 ├── Q10_ReverseNumber.cpp
 ├── Q11_PyramidPattern.cpp
 └── Q12_VotingEligibility.cpp
+```
 
+---
+
+## 🎯 Learning Outcomes
+
+By completing this task, I was able to:
+
+- Strengthen my **understanding of C++ fundamentals**
+- Improve my **problem-solving and logical thinking**
+- Practice writing **structured and readable code**
+- Apply **loops and conditional statements** in real examples
 
 ---
 
